@@ -1,0 +1,4 @@
+cnn papers:
+http://www.aclweb.org/anthology/W17-4118
+https://becominghuman.ai/part-of-speech-tagging-tutorial-with-the-keras-deep-learning-library-d7f93fa05537
+https://ieeexplore.ieee.org/document/6889456
